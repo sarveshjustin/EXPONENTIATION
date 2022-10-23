@@ -12,6 +12,10 @@ To write a program to find the exponentiation of a number.
 2. Use exponentiation operator to find the exponentiation of a number.
 
 ## Program:
+
+Developed by:sarvesh.s
+
+RegisterNumber: 22003029
 ```
 n1 = int(input()) 
 n2 = int(input()) 
